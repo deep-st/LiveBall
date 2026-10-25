@@ -24,5 +24,14 @@ Run exe from release
 
 In fullscreen, move the mouse to the top edge to bring the toolbar back.
 
+## ToDo List
+```
+- Add more sources
+- Improve look
+- Add settings
+- Add chat
+- Quality of life updates
+```
+
 ## Disclaimer
 LiveBall is an unofficial client. It does not host, store or rebroadcast any video; it only displays third-party pages returned by the public [Streamed](https://streamed.pk/docs) API. You are responsible for making sure that what you watch is legal where you live. Not affiliated with the NBA or any team.
